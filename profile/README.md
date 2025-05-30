@@ -1,4 +1,4 @@
-![zkCross Network](https://partisia.zkcross.network/partisia_icons/White-Horizontal.png)
+![zkCross Network](https://zkcross.nyc3.cdn.digitaloceanspaces.com/zkcross_png_2025.png)
 
 # zkCross Network
 
