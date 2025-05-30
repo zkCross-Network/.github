@@ -12,9 +12,9 @@ Our goal is to remove barriers between blockchains, making decentralized finance
 
 ## What We Offer
 
-- **Interoperability Solutions** :repeat: - Connect disparate blockchains and enable seamless asset and data transfer.
-- **Developer Tools** :hammer_and_wrench: - Comprehensive SDKs and APIs to simplify the development of cross-chain applications.
-- **Security and Privacy** :lock: - Leveraging cutting-edge cryptographic techniques, including zero-knowledge proofs, to ensure transactions are secure and private.
+- **Interoperability Solutions** - Connect disparate blockchains and enable seamless asset and data transfer.
+- **Developer Tools** - Comprehensive SDKs and APIs to simplify the development of cross-chain applications.
+- **Security and Privacy** - Leveraging cutting-edge cryptographic techniques, including zero-knowledge proofs, to ensure transactions are secure and private.
 
 ## Getting Started
 
