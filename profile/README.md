@@ -1,6 +1,6 @@
 ![zkCross Network](https://partisia.zkcross.network/partisia_icons/White-Horizontal.png)
 
-# zkCross Network :link:
+# zkCross Network
 
 ## Welcome to zkCross Network
 
