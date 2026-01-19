@@ -1,4 +1,4 @@
-![zkCross Network](https://zkcross.nyc3.cdn.digitaloceanspaces.com/zkcross_png_2025.png)
+![zkCross Network](https://surfliquidprofiles.s3.ap-south-1.amazonaws.com/H-Block-Logo.png)
 
 # zkCross Network
 
